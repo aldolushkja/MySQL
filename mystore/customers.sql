@@ -15,6 +15,7 @@ CREATE TABLE customers(
 /*	INSERTING A FEW ELEMENTS INSIDE THE TABLE customers*/
 
 INSERT INTO customers(first_name,last_name,email,password,street_address,city,state,zip_code) 
-VALUES('Aldo','Lushkja','aldo.lushkja@gmail.com','123456','20 Main Street','Boston','MA','01294'),
-VALUES('Nicusor','Radu','radu.nicusor@gmail.com','123456','50 Main Street','Malu Spart','RO','41294'),
-VALUES('Luis','Braka','luis.braka@gmail.com','123456','12 Rruga e liqenit','Pish Poro','AL','52654');
+VALUES
+('Aldo','Lushkja','aldo.lushkja@gmail.com','123456','20 Main Street','Boston','MA','01294'),
+('Nicusor','Radu','radu.nicusor@gmail.com','123456','50 Main Street','Malu Spart','RO','41294'),
+('Luis','Braka','luis.braka@gmail.com','123456','12 Rruga e liqenit','Pish Poro','AL','52654');
