@@ -1,1 +1,1 @@
-CREATE DATABASE mystore;
+CREATE DATABASE pets;
